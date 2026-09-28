@@ -40,3 +40,5 @@ While setting up Johnny GUI, the app kept opening multiple tabs (over 100) and f
 `C:\Users\ibrahim m\Downloads\...\run\john.exe`
 
 After updating the path in Johnny's settings to point directly to `john.exe` (John the Ripper 1.9.0-jumbo-1), the issue was resolved and the app ran normally.
+
+**NetworkWalks Tool**
