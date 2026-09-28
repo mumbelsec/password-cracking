@@ -28,3 +28,15 @@ The aim of this task is to learn how to crack passwords using various password c
 6. Copy the generated hash and save it to a notepad file. Return to the Johnny app, click **Open Password File**, and select the saved hash file.
 7. Click **Start Attack** — the password will be generated. Speed depends on your PC's CPU strength, so it may be fast or slow. Once generated, copy the password and use it to unlock the file.
 ![JTR Screenshot](jtr.png)
+
+**Problems Encountered**
+
+While setting up Johnny GUI, the app kept opening multiple tabs (over 100) and freezing my system. This was caused by an incorrect path configuration — it was pointing to `johnny.exe` instead of the correct John executable.
+
+**Faulty path:**
+`PathToJohn=C:/Program Files (x86)/Johnny/johnny.exe`
+
+**Fix — corrected path:**
+`C:\Users\ibrahim m\Downloads\...\run\john.exe`
+
+After updating the path in Johnny's settings to point directly to `john.exe` (John the Ripper 1.9.0-jumbo-1), the issue was resolved and the app ran normally.
