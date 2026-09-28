@@ -42,3 +42,11 @@ While setting up Johnny GUI, the app kept opening multiple tabs (over 100) and f
 After updating the path in Johnny's settings to point directly to `john.exe` (John the Ripper 1.9.0-jumbo-1), the issue was resolved and the app ran normally.
 
 **NetworkWalks Tool**
+
+1. Open the NetworkWalks Hash Calculator in your web browser: [https://networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/)
+2. Choose the file option and upload your file, then start cracking. The hash must start with `$pdf$`.
+3. Copy the hash and open the NetworkWalks Password Cracker in your web browser: [https://networkwalks.com/password-cracker/](https://networkwalks.com/password-cracker/), then click **Start Cracking**.
+
+**Problems**
+
+No problems were encountered, but if no password is found, upload another wordlist — this should resolve the issue.
