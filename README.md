@@ -27,3 +27,4 @@ The aim of this task is to learn how to crack passwords using various password c
 5. Upload your PDF file to the online hash checker: [https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php](https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php)
 6. Copy the generated hash and save it to a notepad file. Return to the Johnny app, click **Open Password File**, and select the saved hash file.
 7. Click **Start Attack** — the password will be generated. Speed depends on your PC's CPU strength, so it may be fast or slow. Once generated, copy the password and use it to unlock the file.
+![JTR Screenshot](jtr.png)
