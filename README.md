@@ -66,3 +66,5 @@ A key part of the learning process came from troubleshooting the path configurat
 W3 / Cyber Security / NetworkWalks
 
 Cyber Security Professional
+
+🔗 **LinkedIn Post:** [Week 3 – Password Cracking Using NetworkWalks Tools and John The Ripper](https://www.linkedin.com/pulse/week-3-password-cracking-using-networkwalks-tools-john-muhammad-aeyif)
