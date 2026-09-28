@@ -52,3 +52,15 @@ After updating the path in Johnny's settings to point directly to `john.exe` (Jo
 **Problems**
 
 No problems were encountered, but if no password is found, upload another wordlist — this should resolve the issue.
+
+### **Conclusion**
+
+This task provided hands-on experience with password cracking using two different approaches: John The Ripper (JTR), a locally installed GUI-based tool, and NetworkWalks, a fully online tool. Working through both methods highlighted the differences between offline and online password recovery workflows, from hash extraction to running the actual cracking attack.
+
+A key part of the learning process came from troubleshooting the path configuration issue encountered with Johnny GUI, which reinforced the importance of correctly configuring tool settings before running an attack. Overall, this exercise deepened my understanding of how password hashes are generated, extracted, and cracked, and strengthened my practical skills with cybersecurity tools relevant to password security testing.
+
+### **Author**
+
+**mumbelsec**
+W3 / Cyber Security / NetworkWalks
+Cyber Security Professional
