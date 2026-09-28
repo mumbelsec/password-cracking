@@ -46,6 +46,8 @@ After updating the path in Johnny's settings to point directly to `john.exe` (Jo
 1. Open the NetworkWalks Hash Calculator in your web browser: [https://networkwalks.com/hash-calculator/](https://networkwalks.com/hash-calculator/)
 2. Choose the file option and upload your file, then start cracking. The hash must start with `$pdf$`.
 3. Copy the hash and open the NetworkWalks Password Cracker in your web browser: [https://networkwalks.com/password-cracker/](https://networkwalks.com/password-cracker/), then click **Start Cracking**.
+4. Once the password is displayed, copy and use it to open the file
+![NetworkWalks Screenshot](pdf2-1.png)
 
 **Problems**
 
